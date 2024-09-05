@@ -1,0 +1,6 @@
+module Pods_Furniture_app {
+  umbrella header "Pods-Furniture_app-umbrella.h"
+
+  export *
+  module * { export * }
+}
